@@ -1,5 +1,7 @@
 # Hello world with Django deployed to TAS
 
+This is a sample Python application that can be deployed on Tanzu Application Services (TAS) or on Pivotal Cloud Foundry (PCF).
+
 https://github.com/grenader/python-django-tas-sample
 ## Requirements
 
